@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fixed Clicker</string>
+    <string name="clicktoincrease">Increase the value!</string>
+    <string name="reset">Reset</string>
+    <string name="number">0</string>
+    <string name="decreasevalue">Decrease the Value!</string>
+    <string name="timestwo">Double!</string>
+    <string name="rateapp">Rate the App!</string>
+</resources>
